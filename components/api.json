@@ -1,0 +1,18 @@
+{
+  "URL_CLIENT": "https://github.com/unkcs/api/releases/download/Release/client.apk",
+  "URL_GAME_FILES" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_POWERVR" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_MALI" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_ADRENO" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_DEFAULT" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_FILES_UPD" : "https://github.com/unkcs/api/releases/download/Release/files_upd.zip",
+  "URL_SITE": "https://brasilplaygames.com.br/",
+  "URL_INSTAGRAM": "https://www.instagram.com/brasilplaygames/",
+  "URL_DISCORD": "https://discord.gg/bpgrpg",
+  "URL_YOUTUBE": "https://www.youtube.com/user/brasilplaygamesrpg",
+  "URL_SHOP": "https://loja.brasilplaygames.com.br/",
+  "URL_LOADSCREEN": "https://som.brasilplaygames.com.br/som2/introapk.mp4",
+  "URL_DEVELOPER": "https://www.github.com/unkcs/",
+  "clientVersionCode": 1,
+  "gameFilesVersionCode": 1
+}
